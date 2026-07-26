@@ -4,8 +4,6 @@
 
 Actualmente busco mi primera oportunidad profesional como **Administrador de Sistemas y Redes**, **Técnico IT** o **Técnico de Sistemas**.
 
-Me interesa especialmente la administración de sistemas Linux y Windows, la virtualización, las redes, las copias de seguridad y la gestión de infraestructuras IT.
-
 📍 **Hellín, Albacete (España)**
 
 ---
