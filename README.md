@@ -29,7 +29,7 @@ Actualmente busco mi primera oportunidad profesional como **Administrador de Sis
 
 ### ⚽ Aplicación web CRUD con Flask
 
-> Desarrollo de una aplicación web para la gestión de competiciones deportivas utilizando **Python**, **Flask**, **SQLAlchemy** y **Jinja2**.
+> Desarrollo de una aplicación web para la gestión de competiciones deportivas utilizando **Python**, **Flask** y **Jinja2**.
 
 🔗 **Repositorio:** *(Próximamente)*
 
