@@ -1,6 +1,33 @@
 <h1 align="center">👋 Hola, soy Iván Ruiz</h1>
 <h3 align="center">Administrador de Sistemas y Redes</h3>
 
+
+📍 Hellín, Albacete (España)
+
+---
+
+## 🚀 Áreas de interés
+
+- 🐧 Linux
+- 🪟 Windows Server
+- 🌐 Redes
+- 💻 Virtualización
+- 🛡️ Copias de seguridad
+- 🏗️ Infraestructura IT
+
+---
+
+## 📂 Proyectos destacados
+
+🛡️ **Sistema de copias de seguridad frente a ransomware**
+- Diseño e implementación de una infraestructura de copias de seguridad utilizando Veeam Backup & Replication.
+
+⚽ **Aplicación web CRUD con Flask**
+- Desarrollo de una aplicación web para la gestión de competiciones deportivas.
+
+---
+
+
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ivanruizhellin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivanruizhellin" height="30" width="40" /></a>
