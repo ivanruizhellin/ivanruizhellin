@@ -37,35 +37,35 @@ Me interesa especialmente la administración de sistemas Linux y Windows, la vir
 ## 🛠️ Tecnologías principales
 
 🖥️ Sistemas operativos
-• Ubuntu Server
-• Windows Server
+- Ubuntu Server
+- Windows Server
 
 🖥️ Virtualización
-• VMware Workstation
+- VMware Workstation
 
 📦 Contenedores
-• LXD
+- LXD
 
 🌐 Redes
-• DNS
-• DHCP
-• VLAN
-• TCP/IP
+- DNS
+- DHCP
+- VLAN
+- TCP/IP
 
 🔧 Servicios
-• Apache
-• Nginx
-• SSH
+- Apache
+- Nginx
+- SSH
 
 💾 Copias de seguridad
-• Veeam Backup & Replication
+- Veeam Backup & Replication
 
 💻 Programación
-• Python
-• Flask
-• Jinja2
-• HTML5
-• CSS
+- Python
+- Flask
+- Jinja2
+- HTML5
+- CSS
 
 🗄️ Bases de datos
-• Microsoft SQL Server
+- Microsoft SQL Server
