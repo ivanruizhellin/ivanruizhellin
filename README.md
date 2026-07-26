@@ -1,58 +1,42 @@
-<h1 align="center">👋 Hola, soy Iván Ruiz</h1>
-<h3 align="center">Administrador de Sistemas y Redes</h3>
-
----
-
 ## 👨‍💻 Sobre mí
 
-Soy Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR) y actualmente busco mi primera oportunidad profesional como Administrador de Sistemas y Redes, Técnico IT o Técnico de Sistemas.
+¡Hola! Soy **Iván Ruiz**, Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR).
 
-Me interesa especialmente la administración de sistemas Linux y Windows, la virtualización, las redes, las copias de seguridad y la gestión de infraestructuras IT.
+Actualmente busco mi primera oportunidad profesional como **Administrador de Sistemas y Redes**, **Técnico IT** o **Técnico de Sistemas**.
 
-📍 Hellín, Albacete (España)
+Me apasiona la administración de sistemas Linux y Windows, la virtualización, las redes, las copias de seguridad y la gestión de infraestructuras IT. Disfruto aprendiendo nuevas tecnologías y aplicándolas en proyectos prácticos.
 
----
+📍 **Hellín, Albacete (España)**
 
 ## 🚀 Áreas de interés
 
-- 🐧 Linux
-- 🪟 Windows Server
-- 🌐 Redes
-- 💻 Virtualización
-- 🛡️ Copias de seguridad
-- 🏗️ Infraestructura IT
-
----
+🐧 Linux • 🪟 Windows Server • 🌐 Redes • 💻 Virtualización • 🛡️ Copias de seguridad • 🏗️ Infraestructura IT
 
 ## 📂 Proyectos destacados
 
-🛡️ **Sistema de copias de seguridad frente a ataques ransomware**
-- Diseño e implementación de una infraestructura de copias de seguridad utilizando Veeam Backup & Replication.
+### 🛡️ Sistema de copias de seguridad frente a ataques ransomware
 
-⚽ **Aplicación web CRUD con Flask**
-- Desarrollo de una aplicación web para la gestión de competiciones deportivas.
+> Diseño e implementación de una infraestructura de copias de seguridad frente a ataques ransomware utilizando **Veeam Backup & Replication**, con repositorio endurecido sobre Ubuntu Server y validación de la recuperación mediante métricas RTO/RPO.
+
+🔗 **Repositorio:** *(Próximamente)*
 
 ---
 
+### ⚽ Aplicación web CRUD con Flask
+
+> Desarrollo de una aplicación web para la gestión de competiciones deportivas utilizando **Python**, **Flask**, **SQLAlchemy** y **Jinja2**.
+
+🔗 **Repositorio:** *(Próximamente)*
+
 ## 🛠️ Tecnologías principales
 
-🖥️ Sistemas operativos
-[Ubuntu Server] [Windows Server]
-
-💻 Virtualización
-[VMware] [LXD]
-
-🌐 Redes
-[DNS] [DHCP] [VLAN] [TCP/IP]
-
-🔧 Servicios
-[Apache] [Nginx] [SSH]
-
-💾 Copias de seguridad
-[Veeam]
-
-🐍 Desarrollo
-[Python] [Flask] [Jinja2] [HTML5] [CSS]
-
-🗄️ Bases de datos
-[SQL Server]
+| Área | Tecnologías |
+| :--- | :--- |
+| 🖥️ **Sistemas operativos** | Ubuntu Server · Windows Server |
+| 💻 **Virtualización** | VMware Workstation |
+| 📦 **Contenedores** | LXD |
+| 🌐 **Redes** | DNS · DHCP · VLAN · TCP/IP |
+| 🔧 **Servicios** | Apache · Nginx · SSH |
+| 💾 **Copias de seguridad** | Veeam Backup & Replication |
+| 🐍 **Desarrollo** | Python · Flask · Jinja2 · HTML5 · CSS |
+| 🗄️ **Bases de datos** | Microsoft SQL Server |
