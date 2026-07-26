@@ -8,9 +8,13 @@ Me apasiona la administración de sistemas Linux y Windows, la virtualización, 
 
 📍 **Hellín, Albacete (España)**
 
+---
+
 ## 🚀 Áreas de interés
 
 🐧 Linux • 🪟 Windows Server • 🌐 Redes • 💻 Virtualización • 🛡️ Copias de seguridad • 🏗️ Infraestructura IT
+
+---
 
 ## 📂 Proyectos destacados
 
@@ -20,13 +24,13 @@ Me apasiona la administración de sistemas Linux y Windows, la virtualización, 
 
 🔗 **Repositorio:** *(Próximamente)*
 
----
-
 ### ⚽ Aplicación web CRUD con Flask
 
 > Desarrollo de una aplicación web para la gestión de competiciones deportivas utilizando **Python**, **Flask**, **SQLAlchemy** y **Jinja2**.
 
 🔗 **Repositorio:** *(Próximamente)*
+
+---
 
 ## 🛠️ Tecnologías principales
 
