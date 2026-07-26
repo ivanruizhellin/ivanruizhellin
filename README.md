@@ -31,14 +31,3 @@ Me interesa especialmente la administración de sistemas Linux y Windows, la vir
 
 ⚽ **Aplicación web CRUD con Flask**
 - Desarrollo de una aplicación web para la gestión de competiciones deportivas.
-
----
-
-## 📫 Contacto
-
-<p align="left">
-  <a href="https://linkedin.com/in/ivanruizhellin" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="Email" height="30" width="40" /> : ivanruizhellin@gmail.com
-</p>
