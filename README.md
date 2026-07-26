@@ -4,7 +4,7 @@
 
 Actualmente busco mi primera oportunidad profesional como **Administrador de Sistemas y Redes**, **Técnico IT** o **Técnico de Sistemas**.
 
-Me apasiona la administración de sistemas Linux y Windows, la virtualización, las redes, las copias de seguridad y la gestión de infraestructuras IT. Disfruto aprendiendo nuevas tecnologías y aplicándolas en proyectos prácticos.
+Me interesa especialmente la administración de sistemas Linux y Windows, la virtualización, las redes, las copias de seguridad y la gestión de infraestructuras IT.
 
 📍 **Hellín, Albacete (España)**
 
@@ -12,7 +12,12 @@ Me apasiona la administración de sistemas Linux y Windows, la virtualización, 
 
 ## 🚀 Áreas de interés
 
-🐧 Linux • 🪟 Windows Server • 🌐 Redes • 💻 Virtualización • 🛡️ Copias de seguridad • 🏗️ Infraestructura IT
+- 🐧 Linux
+- 🪟 Windows Server
+- 🌐 Redes
+- 💻 Virtualización
+- 🛡️ Copias de seguridad
+- 🏗️ Infraestructura IT
 
 ---
 
