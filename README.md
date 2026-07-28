@@ -31,7 +31,7 @@ Actualmente busco mi primera oportunidad profesional como **Administrador de Sis
 
 > Desarrollo de una aplicación web para la gestión de competiciones deportivas utilizando **Python**, **Flask** y **Jinja2**.
 
-🔗 **Repositorio:** *(Próximamente)*
+🔗 **Repositorio:** [Ver proyecto en GitHub](https://github.com/ivanruizhellin/crud-futbol-app)
 
 ---
 
