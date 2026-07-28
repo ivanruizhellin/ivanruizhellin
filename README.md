@@ -25,7 +25,7 @@ Actualmente busco mi primera oportunidad profesional como **Administrador de Sis
 
 > Diseño e implementación de una infraestructura de copias de seguridad frente a ataques ransomware utilizando **Veeam Backup & Replication**, con repositorio endurecido sobre Ubuntu Server y validación de la recuperación mediante métricas RTO/RPO.
 
-🔗 **Repositorio:** *(Próximamente)*
+🔗 **Repositorio:** [Ver proyecto en GitHub](https://github.com/ivanruizhellin/veeam-ransomware-lab)
 
 ### ⚽ Aplicación web CRUD con Flask
 
